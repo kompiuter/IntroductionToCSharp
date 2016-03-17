@@ -36,7 +36,7 @@ All lecturers are recorded and links for them can be found at the end of this re
   - [Part 1](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=4NEkviRIvguObjNy3ayk6wEOWeD%2bOTRR8uf%2bbQu6vXk%3d&docid=0d600fb39d0714e37bf92aad01bf0bbf5)
     
   - [Part 2](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=5c5P%2bGRUsBCjyh%2bIVT7SAY8%2bSj0NKP0VBhwgcz7gVr4%3d&docid=08d2a1f5189fa4ffeaba5ca5e2fb7db94)
-  - 
+  
 - **Module 2**
 
   - [Part 1] (available shortly)
