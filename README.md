@@ -39,9 +39,9 @@ All lecturers are recorded and links for them can be found at the end of this re
   
 - **Module 2**
 
-  - [Part 1] (available shortly)
+  - Part 1 (available shortly)
   
-  - [Part 2] (available shortly)
+  - Part 2 (available shortly)
   
 
   
