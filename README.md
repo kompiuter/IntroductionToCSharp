@@ -21,12 +21,14 @@ All lecturers are recorded and links for them can be found at the end of this re
   - Full code 
    
   - Presentation 
+  
+  - Assignment solution
    
 - **Module 3**: Manipulating data with JSON & LINQ
  
-  - Full code (*available on 24/03/2016*)
+  - Full code 
    
-  - Presentation (*available on 24/03/2016*)
+  - Presentation 
   
   
 ##**Lecture Recordings**
@@ -43,5 +45,10 @@ All lecturers are recorded and links for them can be found at the end of this re
   
   - [Part 2](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=p2RC3NZIaoCvFLG96bhcoVhQY%2f3QKRWqLyWfK7%2fO9Kc%3d&docid=0332f47255bc048f3a226a6f0241c38d5)
   
+- **Module 3**
+
+  - Part 1 (Available shortly)
+  
+  - Part 2 (Available shortly)
 
   
