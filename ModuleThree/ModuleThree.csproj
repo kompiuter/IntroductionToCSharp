@@ -67,6 +67,7 @@
     <Content Include="schoolData.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Module 3.pptx" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
