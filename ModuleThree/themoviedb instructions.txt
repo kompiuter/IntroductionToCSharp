@@ -1,0 +1,30 @@
+1 - For API key
+a. Register & Login (https://www.themoviedb.org/)
+b. Click on username
+c. Click on API on left bar
+d. Click on Generate Key
+e. Look at example URL
+f. Get your key & save it
+
+2 - Using API for 'movies playing now'
+a. Click API on top bar
+b. Click 'full documentation' in text (under API recap)
+c. Click on 'Movies' (left bar scroll down)
+d. Find /movie/now_playing
+e. Follow instructions 
+ e1. Click on Example button
+ e2. Look at C# example
+ e3. Paste in your project & use it
+f. Experiment with other APIs!
+
+3 - JSON Formatter (to read easily)
+a. Google 'JSON formatter'
+b. First link (https://jsonformatter.curiousconcept.com/)
+c. Paste JSON
+d. Click Process
+
+4 - Generating C# Classes
+a. Copy JSON string
+b. Go into Visual Studio and into any .cs file
+c. From menu bar choose Edit -> Paste Special -> Paste JSON as Classes
+(This can also be done in google by searching 'JSON to C#')

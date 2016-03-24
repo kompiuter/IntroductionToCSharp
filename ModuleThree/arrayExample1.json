@@ -1,0 +1,23 @@
+[
+  {
+    "name": "apple",
+    "inStock": false,
+    "price": 2.5
+  },
+  {
+    "name": "orange",
+    "inStock": true,
+    "price": 3.0
+  },
+  {
+    "name": "potato",
+    "inStock": false,
+    "price": 1.5
+  },
+  {
+    "name": "banana",
+    "inStock": true,
+    "price": 1.75
+  }
+
+]

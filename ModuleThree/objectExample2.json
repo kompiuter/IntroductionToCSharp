@@ -1,0 +1,8 @@
+{
+  "shopName": "Coho Winery",
+  "owner": {
+    "name": "John",
+    "age": 42
+  },
+  "items": ["sandwich","coffee","bagel","tea"]
+}

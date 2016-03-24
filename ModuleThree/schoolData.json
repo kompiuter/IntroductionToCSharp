@@ -1,0 +1,81 @@
+{
+  "name": "School of Fine Art",
+  "address": "1234 1st Ave",
+  "courses": [
+    {
+      "subject": "Chemistry",
+      "teacher": {
+        "name": "Mr. Baker",
+        "age": 28,
+        "isPresent": true
+      },
+      "students": [
+        {
+          "name": "Billy",
+          "age": 15,
+          "isPresent": true
+        },
+        {
+          "name": "Sally",
+          "age": 16,
+          "isPresent": true
+        },
+        {
+          "name": "Fred",
+          "age": 15,
+          "isPresent": true
+        }
+      ]
+    },
+    {
+      "subject": "Maths",
+      "teacher": {
+        "name": "Ms. Doe",
+        "age": 35,
+        "isPresent": true
+      },
+      "students": [
+        {
+          "name": "David",
+          "age": 17,
+          "isPresent": false
+        },
+        {
+          "name": "Lucy",
+          "age": 16,
+          "isPresent": true
+        },
+        {
+          "name": "Joe",
+          "age": 16,
+          "isPresent": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "teacher": {
+        "name": "Mr. Baker",
+        "age": 28,
+        "isPresent": true
+      },
+      "students": [
+        {
+          "name": "Lucy",
+          "age": 16,
+          "isPresent": true
+        },
+        {
+          "name": "Jake",
+          "age": 15,
+          "isPresent": false
+        },
+        {
+          "name": "Mary",
+          "age": 17,
+          "isPresent": true
+        }
+      ]
+    }
+  ]
+}
