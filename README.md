@@ -30,7 +30,20 @@ All lecturers are recorded and links for them can be found at the end of this re
    
   - Presentation 
   
+  - JSON files
   
+  - API instructions
+  
+  
+##**Presentations**
+  
+- [Module 1](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=f2tPBWghuVykDzCuYN2ct5g2LavLa6mbw8iG5ubbcxc%3d&docid=0d668fba2991a4b8fbe9e9fa03813bde1)
+
+- [Module 2](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=qYDijfK4ojTCjOIiHBIqAKAZMdGE1o0tmtrRipSfjuc%3d&docid=069b49affebd24ed28bacd7595b13b43d)
+
+- [Module 3](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=zZXmLWiUPDP1lt7T5eTBIt60y6li5Ycq86D0FwMUxEQ%3d&docid=00cce28e28a0645969de127440a33e78b)
+  
+
 ##**Lecture Recordings**
   
 - **Module 1**
@@ -50,5 +63,9 @@ All lecturers are recorded and links for them can be found at the end of this re
   - [Part 1](https://stdntpartners-my.sharepoint.com/personal/kyriakos_kyriakou_studentpartner_com/_layouts/15/guestaccess.aspx?guestaccesstoken=w7ZNKFOQVPTLtcObb%2BuL5aY4KlmcNAxVkNv%2FXyncrXA%3D&docid=0917af16ceb6b4a6cbf29968eeabe13ca)
   
   - Part 2 (Available shortly)
+  
+
+
+
 
   
